@@ -34,8 +34,10 @@ import org.junit.After;
 import org.junit.Test;
 ```
 
-Gradle is used to run and test from the Terminal:
+Gradle can be used to run and test from the Terminal:
 ```
 ./gradlew run
 ./gradlew test
 ```
+
+The `MenuOrdering` class includes driver code in main to print out test code to visually verify output.
