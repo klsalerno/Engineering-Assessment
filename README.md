@@ -1,6 +1,6 @@
-# Engineering-Test
+# Engineering-Assessment
 
-Engineering-Test is a Java project that takes orders for breakfast, lunch, and dinner.
+Engineering-Assessment is a Java project that takes orders for breakfast, lunch, and dinner.
 
 ## About the System
 
